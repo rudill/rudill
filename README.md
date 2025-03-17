@@ -12,5 +12,5 @@ Welcome to my GitHub profile! 🚀
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudill&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YourUsername)  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/YourUsername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ruvinda-dilshan-4025a5163)  
+
