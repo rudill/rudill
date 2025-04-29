@@ -11,6 +11,11 @@ Welcome to my GitHub profile! 🚀
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudill&show_icons=true&theme=radical)
 
+## 🗣️ Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudill&layout=compact)
+
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ruvinda-dilshan-4025a5163)  
 
