@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 🗣️ Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudill&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudill&layout=compact&langs_count=8&hide=css,html,cmake&theme=tokyonight)
 
 
 ## 📫 Connect with Me  
